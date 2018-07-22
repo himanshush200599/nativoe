@@ -1,0 +1,572 @@
+.navBorder {
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+
+
+}
+.hide{
+  display: none;
+}
+#upperNavLogo{
+  width:70%;
+margin-left: 15%;
+}
+#login{
+
+    width:110px;
+    font-weight: bolder;
+    border-radius: 0;
+    margin-top: auto;
+
+  }
+  #logout{
+
+      width:110px;
+      font-weight: bolder;
+      border-radius: 0;
+      margin-top: auto;
+
+    }
+input[type="email"],input[type='password'],input[type='text'],input[type='tel']  {
+
+    background-color : #FFFFC6;
+    width:300px;
+
+    border-radius: 0;
+
+  }
+  .relativeImg{
+
+      position:relative;
+
+    }
+    .absolute-text{
+
+      position:absolute;
+      bottom:250px;
+      font-size:32px;
+      font-family:"vedana";
+      text-shadow: 2px 1px 1px black;
+  color:white;
+  font-weight: bolder;
+    padding:10px 20px;
+
+     width:100%;
+      text-align:left;
+    }
+  .text2{
+
+        position:absolute;
+        bottom:200px;
+        font-size:25px;
+        font-family:"vedana";
+        background-color: #FFFFFF;
+
+    color:#363636;
+    font-weight: bolder;
+      padding:10px 20px;
+  margin-left: 20px;
+       width:45%;
+        text-align:left;
+      }
+  .user1{
+    position:relative;
+  bottom: 55px;
+  color: white;
+  margin-bottom: -45px;
+  }
+  .grid1{
+    background-color: #000000;
+    margin-left: 0;
+  border-left: 1px solid black;
+  }
+  .grid2{
+    background-color:#FFFFFF;
+
+    color:black;
+
+  }
+  .grid3{
+    background-color:#FFFFFF;
+
+  color:black;
+  }
+  .row{
+  margin:30px;
+}
+.imgMain{
+  width: 100%;
+
+}
+.google{
+  width:300px;;
+  padding:10px;
+  font-size: 20px;
+  color:#FFFFFF;
+  background: linear-gradient(to right,#FF966F,#FF5931);
+margin-bottom: 25px;
+font-weight: bolder;
+  border-radius: 0;
+  margin-top: 15px;
+  margin-left: -6px;
+}
+#submit{
+  width:300px;;
+  padding:10px;
+  font-size: 20px;
+  color:#FFFFFF;
+font-weight: bolder;
+border-radius: 0;
+margin-top: 15px;
+}
+.facebook{
+  margin-top: 15px;
+  margin-left: -6px;
+  width:300px;;
+  padding:10px;
+  margin-bottom: 15px;
+  font-size: 20px;
+  color:#FFFFFF;
+  background: linear-gradient(to right,#4090FF , #2ED5FF);
+font-weight: bolder;
+  border-radius: 0;
+
+}
+.or{
+  border:1px solid gray;
+  background-color: white;
+  border-radius: 50% ;
+  padding:5px;
+  margin:4px;
+  margin-bottom: 20px;
+  margin-top: 25px;
+  color:black;
+box-shadow: 3px 0px white ;
+-webkit-box-shadow: 0 8px 6px -6px #999;
+-moz-box-shadow: 0 8px 6px -6px #999;
+box-shadow: 0 8px 6px -6px #999;
+margin: 15px;
+
+}
+.or1:after,
+.or1:before{
+    content:"\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0";
+    text-decoration:line-through;
+    color:lightgray;
+margin-bottom: 20px;
+
+}
+#box{
+  width:330px;
+margin-bottom: 20px;
+  height: 560px;
+  padding-left: 20px;
+  border: 1px solid #EFEFEF;
+  box-shadow: 0px 2px 5px #000000;
+
+
+}
+#number{
+  color:#FF0F0F;
+  text-align: left;
+}
+.pnumber{
+  text-align: left;
+}
+.many{
+  color:lightgray;
+}
+.condt{
+  margin-top: 20px;
+  font-size: 18px;
+}
+.condtn{
+  float:left;
+}
+#join{
+  margin-top: 15px;
+}
+.offer{
+  width:330px;
+  border:1px solid gray;
+
+padding : 30px;
+margin:0;
+margin-top: 45px;
+box-sizing:border-box;
+box-shadow: 1px 1px 1px 2px gray;
+}
+#special{
+  color:#363636;
+  margin-right: 20px;
+  font-weight:bolder;
+  padding-top: 15px;
+  padding-left: 55px;
+}
+.form{
+  margin-top: 5px;
+
+}
+#form1{
+  float: right;
+}
+.card{
+  top:-60px;
+
+}
+#inputfeild{
+  margin-top: 20px;
+  margin-bottom: 15px;
+  float: left;
+  margin-left: -6px;
+}
+#about{
+  margin:7px;
+  padding:auto;
+    font-weight: bolder;
+}
+#contact{
+  margin:7px;
+  padding:auto;
+    font-weight: bolder;
+}
+#faq{
+  margin:7px;
+  padding:auto;
+    font-weight: bolder;
+}
+#terms{
+    font-weight: bolder;
+}
+#brand{
+  float:left;
+}
+.hide{
+  display: none;
+}
+.hideb{
+  display:none;
+}
+
+#foot{
+
+  float: right;
+  margin-right: 55px;
+}
+.hrline{
+
+  height:5px;
+}
+@media only screen and (max-width: 600px) {
+  #login{
+    margin-left: 35%;
+    padding-right: 15px;
+    width:110px;
+    font-weight: bolder;
+    border-radius: 0;
+    margin-bottom: 10px;
+  }
+  #login{
+    margin-left: 35%;
+    padding-right: 15px;
+    width:110px;
+    font-weight: bolder;
+    border-radius: 0;
+    margin-bottom: 10px;
+  }
+  #slink{
+    text-decoration: none;
+    color: #4090FF;
+
+  }
+  #dont{
+
+    margin-top: 15px;
+    margin-left: 16%;
+  }
+
+  #upperNavLogo{
+    width: 145px;
+    margin: auto;
+    margin-left: 70%;
+  }
+
+
+
+.google{
+  width:315px;
+  height: 45px;
+  padding:10px;
+font-weight: bolder;
+  font-size: 20px;
+  color:#FFFFFF;
+  background: linear-gradient(to right,#FF966F,#FF5931);
+margin-bottom: 10px;
+  border-radius: 0;
+  margin-left: 10%;
+}
+.facebook{
+  width:315px;
+  height: 45px;
+  font-weight: bolder;
+  padding:10px;
+  font-size: 20px;
+  color:#FFFFFF;
+  background: linear-gradient(to right,#4090FF , #2ED5FF);
+margin-bottom: 10px;
+margin-top: 20px;
+  border-radius: 0;
+  margin-left: 10%;
+}
+input[type="email"],input[type='password'] {
+
+  background-color : #FFFFC6;
+  width:315px;
+margin:auto;
+background-color : #FFFFC6;
+border-radius: 0;
+
+}
+.hideb{
+  display:inline;
+}
+.showb{
+  display: none;
+}
+#fimage{
+  margin-top: 10px;
+  width: 45px;
+  float: left;
+
+}
+#about{
+  margin:2px;
+  font-weight: bolder;
+  font-size: 12px;
+
+
+}
+#ipsum{
+  color:#000000;
+  font-weight:lighter;
+  margin-top: 10px;
+  margin-left: 15%;
+  margin-bottom: 20px;
+}
+#amit{
+  margin-left: 90px;
+}
+#foot{
+
+  float: right;
+  white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+margin-right: 0;
+
+}
+#contact{
+  margin:2px;
+font-weight: bolder;
+  font-size: 12px;
+
+}
+#faq{
+  margin:2px;
+font-weight: bolder;
+  font-size: 12px;
+
+}
+#terms{
+  margin:2px;
+font-weight: bolder;
+  font-size: 12px;
+
+
+}
+.or1:after,
+.or1:before{
+    content:"\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0";
+    text-decoration:line-through;
+    color:lightgray;
+    padding:10px;
+
+
+
+
+}
+.or{
+  font-size: 14px;
+  border: 1px solid lightgray;
+  width: 50%;
+  -webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999;
+font-weight: bolder;
+background-color:white;
+}
+#orcenter{
+  float: none;
+  margin-left: 20%;
+}
+
+  }
+  @media (min-width: 601px) and (max-width: 1224px) {
+    #login{
+      margin-left: 38%;
+      padding-right: 15px;
+      width:150px;
+      font-weight: bolder;
+      border-radius: 0;
+      margin-bottom: 10px;
+    }
+    #logout{
+      margin-left: 38%;
+      padding-right: 15px;
+      width:150px;
+      font-weight: bolder;
+      border-radius: 0;
+      margin-bottom: 10px;
+    }
+    #slink{
+      text-decoration: none;
+      color: #4090FF;
+
+    }
+    #dont{
+
+      margin-top: 15px;
+      margin-left: 25%;
+    }
+
+    #upperNavLogo{
+      width: 145px;
+      margin: auto;
+      margin-left: 200%;
+    }
+
+
+
+  .google{
+    width:350px;
+    height: 45px;
+    padding:10px;
+  font-weight: bolder;
+    font-size: 20px;
+    color:#FFFFFF;
+    background: linear-gradient(to right,#FF966F,#FF5931);
+  margin-bottom: 10px;
+    border-radius: 0;
+    margin-left: 25%;
+  }
+  .facebook{
+    width:350px;
+    height: 45px;
+    font-weight: bolder;
+    padding:10px;
+    font-size: 20px;
+    color:#FFFFFF;
+    background: linear-gradient(to right,#4090FF , #2ED5FF);
+  margin-bottom: 10px;
+  margin-top: 20px;
+    border-radius: 0;
+    margin-left: 25%;
+  }
+  input[type="email"],input[type='password'] {
+
+    background-color : #FFFFC6;
+    width:350px;
+  margin:auto;
+  background-color : #FFFFC6;
+  border-radius: 0;
+margin-left: 25%;
+  }
+
+
+  .hideb{
+    display:inline;
+  }
+  .showb{
+    display: none;
+  }
+  #fimage{
+    margin-top: 10px;
+    width: 55px;
+    float: left;
+
+  }
+  #about{
+    margin:5px;
+    font-weight: bolder;
+    font-size: 15px;
+
+
+  }
+  #ipsum{
+    color:#000000;
+    font-weight:lighter;
+    margin-top: 10px;
+    margin-left: 25%;
+    margin-bottom: 20px;
+  }
+  #amit{
+    margin-left: 90px;
+  }
+  #foot{
+
+    float: right;
+    white-space: nowrap;
+      overflow-x: auto;
+      overflow-y: hidden;
+  margin-right: 0;
+
+  }
+  #contact{
+    margin:5px;
+  font-weight: bolder;
+    font-size: 15px;
+
+  }
+  #faq{
+    margin:5px;
+  font-weight: bolder;
+    font-size: 15px;
+
+  }
+  #terms{
+    margin:5px;
+  font-weight: bolder;
+    font-size: 15px;
+
+
+  }
+  .or1:after,
+  .or1:before{
+      content:"\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0";
+      text-decoration:line-through;
+      color:lightgray;
+      padding:10px;
+
+
+
+
+  }
+  .or{
+    font-size: 14px;
+    border: 1px solid lightgray;
+    width: 50%;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+  font-weight: bolder;
+  background-color:white;
+  }
+  #orcenter{
+    float: none;
+    margin-left: 33%;
+  }
+
+
+
+  }
